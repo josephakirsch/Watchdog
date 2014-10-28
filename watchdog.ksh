@@ -1,5 +1,6 @@
 #!/bin/ksh
 
+# Description - Custom File Watcher Script
 # Author - jake kirsch
 # Usage: see usage() function, below
 
